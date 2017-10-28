@@ -12,5 +12,7 @@ public class Varianza {
         System.out.println("La desviacion es: "+desviacion);
 System.out.println("Gracias por usar Git");
 System.out.println("Develop branch");
+System.out.println("Master 2.0");
+System.out.println("New feature")
     } 
 }
