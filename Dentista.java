@@ -9,5 +9,10 @@ System.out.println("Estoy trabajando");
 }
 
 
+public void metodoDeveloper1(){
+System.out.println("Este metodo es de Noviembre del 2017");
+System.out.println("Fin del metodo");
+}
+
 }
 }
