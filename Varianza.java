@@ -10,7 +10,6 @@ public class Varianza {
         double desviacion=Math.sqrt(varianza);
         System.out.println("La varianza es: "+varianza);
         System.out.println("La desviacion es: "+desviacion);
-System.out.println("Gracias por usar Git");
-System.out.println("Develop branch");
+
     } 
 }
